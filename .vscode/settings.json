@@ -1,0 +1,29 @@
+{
+    // When we accidentally hit copy without selecting anything and it overrides the clipboard
+    "editor.emptySelectionClipboard": false,
+    "editor.quickSuggestionsDelay": 0,
+    "editor.cursorBlinking": "solid",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.smoothScrolling": true,
+    "editor.fontLigatures": true,
+    // Brackets
+    "bracket-pair-colorizer-2.forceIterationColorCycle": true,
+    "bracket-pair-colorizer-2.forceUniqueOpeningColor": true,
+    "bracket-pair-colorizer-2.showBracketsInGutter": true,
+    "bracket-pair-colorizer-2.rulerPosition": "Center",
+    "bracket-pair-colorizer-2.colors": [
+        "Gold",
+        "Orchid",
+        "LightSkyBlue",
+        "#E27D60",
+        "#E8A87C",
+        "#C38D9E",
+        "#41B3A3",
+        "IndianRed",
+        "DarkViolet"
+        // "#85DCB",
+        // "Aquamarine",
+        // "DeepPink",
+    ],
+
+}
