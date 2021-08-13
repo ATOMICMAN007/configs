@@ -26,5 +26,6 @@ A cool Github repo worth checking-
 - [Markdown All in  One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
 ### Themes
+- [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
 - [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
 - [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
