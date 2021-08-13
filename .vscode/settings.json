@@ -2,7 +2,8 @@
     // When we accidentally hit copy without selecting anything and it overrides the clipboard
     "editor.emptySelectionClipboard": false,
     "editor.quickSuggestionsDelay": 0,
-    "editor.cursorBlinking": "solid",
+    // Because the default cursor blinking feels natural
+    // "editor.cursorBlinking": "solid",
     "editor.cursorSmoothCaretAnimation": true,
     "editor.smoothScrolling": true,
     "editor.fontLigatures": true,
