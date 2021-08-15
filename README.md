@@ -1,5 +1,5 @@
 # configs
-A repo for my convenience.
+A repo for my convenience and to play around with [GitHub](https://github.com/) features.
 Photo in preview by [Elba Sindoni](https://unsplash.com/@helloelba?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/images/stock/public-domain?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 - [configs](#configs)
