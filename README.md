@@ -24,6 +24,8 @@ A cool Github repo worth checking-
 - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [Markdown All in  One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+- [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
+- [Python Docstring Generator](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
 
 ### Themes
 - [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
