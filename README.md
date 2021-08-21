@@ -24,15 +24,15 @@ A cool Github repo worth checking-
 ## Extensions
 Some obvious extensions are not in the list, like the [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) which is required to run python files.
 
+- [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 - [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
-- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+- [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [Excel Viewer](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer)
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [Markdown All in  One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-- [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
-- [Excel Viewer](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer)
+- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 - [Python Docstring Generator](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
-- [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 ### Themes
 - [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
