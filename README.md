@@ -22,13 +22,20 @@ A cool Github repo worth checking-
 - Fira Code - ([GitHub](https://github.com/tonsky/FiraCode), [Google Fonts](https://fonts.google.com/specimen/Fira+Code))
 
 ## Extensions
+Some obvious extensions are not in the list, like the [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) which is required to run python files.
+
+- [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
 - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [Markdown All in  One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
+- [Excel Viewer](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer)
 - [Python Docstring Generator](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
+- [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 ### Themes
 - [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
 - [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
 - [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+- [Coder Coder Dark](https://marketplace.visualstudio.com/items?itemName=CoderCoder.codercoder-dark-theme)
