@@ -3,14 +3,21 @@ A repo for my convenience and to play around with some GitHub features I haven't
 Photo in preview by [Elba Sindoni](https://unsplash.com/@helloelba?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/images/stock/public-domain?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 - [configs](#configs)
+  - [Windows](#windows)
   - [VS Code](#vs-code)
     - [Settings](#settings)
     - [Typefaces/Fonts](#typefacesfonts)
   - [Extensions](#extensions)
     - [Themes](#themes)
 
-## VS Code
+## Windows
+Windows specific files and stuff.
 
+- Windows Terminal [settings.json](https://github.com/ATOMICMAN007/configs/blob/main/windows/settings.json)
+> Note:
+> The above `settings.json` is mainly there to solve the [issue](https://github.com/microsoft/terminal/issues/620) where I type `wt` in the address bar of Windows File Explorer and it opens in the `%USERPROFILE%` direcory, not in the current one, unlike `cmd`. This one works for **me** at the time of writting this. Thanks to a [blog post by Martin Zikmund](https://blog.mzikmund.com/2020/01/tip-launch-windows-terminal-quickly-from-file-explorer/) which addresses this issue outside of the long discussion of original [issue](https://github.com/microsoft/terminal/issues/620).
+
+## VS Code
 A cool Github repo worth checking-
 <https://github.com/viatsko/awesome-vscode>
 
