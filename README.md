@@ -15,7 +15,7 @@ Windows specific files and stuff.
 
 - Windows Terminal [settings.json](https://github.com/ATOMICMAN007/configs/blob/main/windows/settings.json)
 > Note:
-> The above `settings.json` is mainly there to solve the [issue](https://github.com/microsoft/terminal/issues/620) where I type `wt` in the address bar of Windows File Explorer and it opens in the `%USERPROFILE%` direcory, not in the current one, unlike `cmd`. This one works for **me** at the time of writting this. Thanks to a [blog post by Martin Zikmund](https://blog.mzikmund.com/2020/01/tip-launch-windows-terminal-quickly-from-file-explorer/) which addresses this issue outside of the long discussion of original [issue](https://github.com/microsoft/terminal/issues/620).
+> The above `settings.json` is mainly there to solve the [issue](https://github.com/microsoft/terminal/issues/620) where I type `wt` in the address bar of Windows File Explorer and it opens in the `%USERPROFILE%` direcory, not in the current one, unlike `cmd`. This one works for **me** at the time of writting this. Thanks to a [blog post by Martin Zikmund](https://blog.mzikmund.com/2020/01/tip-launch-windows-terminal-quickly-from-file-explorer/) which addresses this outside of the long discussion of original [issue](https://github.com/microsoft/terminal/issues/620).
 
 ## VS Code
 A cool Github repo worth checking-
